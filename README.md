@@ -15,4 +15,5 @@ Concernant le format de la page internet, c’est par Bootstrap que les divers �
 Ce travail a été réalisé par Monsieur Kevin Bouchir dans le cadre du cours de « publication numérique » donné à l’Université de Lausanne (Unil).
 ### 4.	Sources
 Candide, ou l’Optimisme/Garnier 1877 (2015, 27 décembre). In Wikisource [en ligne]. Disponible sur https://fr.wikisource.org/wiki/Candide,_ou_l’Optimisme/Garnier_1877
+
 Candide ou l'optimisme : Personnages et lieux principaux, résumé et thèmes du conte (s.d.) [en ligne]. Disponible sur  http://www.litterales.com/document_disparu.php?id=1454&table=litterature#ixzz4UzSLYtTz (consulté le 18 octobre 2016)
