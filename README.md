@@ -4,12 +4,19 @@ Candide ou l’Optimiste est une œuvre de Voltaire écrite durant le XVIIIe si�
 ### 2.	Fonctionnalités
 Dans le schéma de base, l’idée de départ était de diviser la page internet en deux avec une colonne réservée au texte et une autre pour l’essentiel à des interactions avec la carte. Ainsi, en décortiquant la présentation, à gauche se trouve le texte avec lequel deux interactions sont possibles. La première, par un click sur les numéros surélevés dans le texte, il est possible d’arriver directement sur la note en bas de page contenant les explications d’un mot ou d’une phrase. En cliquant sur la flèche tournée vers le haut située dans les notes en bas de page, la lecture reprend sur la ligne où se situait le mot avec le numéro. 
 La deuxième interaction se fait avec l’aide de certains mots placés en bleu. Il s’agit en fait de liens qui permettent au lecteur au moyen d’un click de se situer sur la carte située à la droite du texte. La carte zoome ainsi directement sur le lieu sélectionné.
+
 Au niveau de la colonne de droite, il y a d’abord deux boutons pour avancer et reculer dans la lecture. Certains lecteurs préfèrent avancer à pas de click plutôt que de défiler le texte en utilisant la roue de la souris ou le doigt sur une tablette. Avec ces deux boutons, le lecteur peut avancer et reculer dans la lecture de manière adaptée, car l’espace d’avancement et de recul a été réglé pour permettre de s’y retrouver. 
+
 En dessous de ces fonctions se trouve un autre bouton ainsi qu’un menu déroulant et une carte. Cette dernière correspond à une carte politique actuelle du monde. Il est possible de la changer grâce au bouton situé en haut à droite de la carte. Il permet d’activer la carte physique du monde. 
+
 En dessous du zoom se trouve la légende qui explique les icônes et les traits situés sur la carte. Les premières correspondent aux lieux de passages de Candide, numérotés dans l’ordre de la fréquentation de ces lieux ; les seconds montrent le tracé reliant ces lieux. Sur la carte n’apparaissent que cinq lieux, soit autant d’endroits que Candide a fréquentés dans les cinq premiers chapitres du conte. De plus, chaque numéro possède une infobulle qui s’active en cliquant sur l’icône. 
+
 En bas à droite de la carte se trouvent l’échelle et les crédits de chaque carte. 
+
 Les deux boutons situés sur la carte permettent également de régler le zoom. En centrant sur la carte, le premier permet de faire en sorte que l’essentiel des points soient visibles et possède donc un niveau de zoom faible. Le second bouton permet de zoomer sur les lieux que Candide a visités avec un niveau de zoom accru.  
+
 Pour finir, sur la gauche de la page internet, un plugin a été ajouté (barre de couleur bleu-vert et saumon). Elle indique la taille de la page et le lieu où se situe le lecteur par rapport à la fin. Ce plugin JQuery Scrolline provient du site internet suivant : https://github.com/anthonyly/Scrolline.js?files=1. 
+
 Concernant le format de la page internet, c’est par Bootstrap que les divers éléments ont pu être fixés. Ainsi, pour les formats plus petits que les tablettes paysages, la carte et les fonctionnalités de la colonne de droite ne sont plus accessibles au lecteur.  
 ### 3.	Auteur du travail
 Ce travail a été réalisé par Monsieur Kevin Bouchir dans le cadre du cours de « publication numérique » donné à l’Université de Lausanne (Unil).
