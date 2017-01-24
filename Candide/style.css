@@ -1,0 +1,126 @@
+body{
+	font-family:"Helvetica Neue", Arial, Helvetica, sans-serif;
+	text-align:justify;
+	margin-left:10px;
+}
+
+h1,h2,h3,h4{
+	text-align:center; 
+}
+
+p{
+	font-size:17px;
+    margin-left:20px;
+}
+
+#references{
+	font-size:14px;
+}
+
+#map {
+	background-color: #666;
+	width:580px;
+	height:400px;
+	position: fixed;
+	margin-top:60px;
+    z-index: 0;
+}
+
+.my-legend{
+    position:fixed;
+    margin-top:352px;
+    background-color:white;
+}
+
+.my-legend .legend-title {
+    text-align: left;
+    margin-bottom: 5px;
+    font-weight: bold;
+    font-size: 90%;
+    line-height: 3;
+}
+
+.my-legend .legend-scale ul {
+    margin: 0;
+    margin-bottom: 5px;
+    padding: 0;
+    float: left;
+    list-style: none;
+    }
+
+.my-legend .legend-scale ul li {
+    font-size: 80%;
+    list-style: none;
+    margin-left: 0;
+    line-height: 18px;
+    margin-bottom: 2px;
+    }
+
+.my-legend ul.legend-labels li span {
+    display: block;
+    float: left;
+    height: 16px;
+    width: 30px;
+    margin-right: 5px;
+    margin-left: 0;
+    border: 1px solid #999;
+    }
+
+.my-legend .legend-source {
+    font-size: 50%;
+    color: #999;
+    clear: both;
+    }
+
+.my-legend a {
+    color: #777;
+    }
+
+.my-legend {
+    max-width: 300px !important;
+    }
+
+.icones{
+    height:20px;
+    width:20px;
+    margin-top:7px;
+}
+
+#lieux{
+    margin-top:-42px;
+    margin-left:35px;
+    position:relative;
+}
+
+#Villes{
+    margin-left:35px;
+    margin-top:-20px;
+    position:relative;
+    margin-bottom:-20px;
+    line-height: 10px
+}
+
+.legend-source{
+    margin-top:-100px;
+}
+
+#legende{
+    vertical-align: middle;
+    color: white;
+}
+
+button{
+    margin-left:350px;
+    position:fixed;
+}
+
+#bouton{
+    position:fixed;
+    margin-top:20px;
+    margin-left:20px;
+}
+
+.form-group{
+    position:fixed;
+    margin-left:300px;
+}
