@@ -20,6 +20,7 @@ Pour finir, sur la gauche de la page internet, un plugin a été ajouté (barre 
 Concernant le format de la page internet, c’est par Bootstrap que les divers éléments ont pu être fixés. Ainsi, pour les formats plus petits que les tablettes paysages, la carte et les fonctionnalités de la colonne de droite ne sont plus accessibles au lecteur.  
 ### 3.	Auteur du travail
 Ce travail a été réalisé par Monsieur Kevin Bouchir dans le cadre du cours de « publication numérique » donné à l’Université de Lausanne (Unil).
+La licence se trouve derrière le lien suivant: [LICENCE](https://github.com/Niwetsch/Candide/blob/master/LICENCE)
 ### 4.	Sources
 Candide, ou l’Optimisme/Garnier 1877 (2015, 27 décembre). In Wikisource [en ligne]. Disponible sur https://fr.wikisource.org/wiki/Candide,_ou_l’Optimisme/Garnier_1877
 
