@@ -2,7 +2,7 @@
 ### 1.	Introduction
 Candide ou l’Optimiste est une œuvre de Voltaire écrite durant le XVIIIe siècle. Ce conte traite du voyage de Candide, le héros de l’histoire, à travers le monde après avoir été banni de ce qui constituait pour lui un paradis à savoir le château de Thunder-ten-tronckh de Vestphalie. C’est justement ce long voyage au travers duquel Candide retrouve ces amis, eux aussi exclus du château, que ce tourne ce travail de publication numérique. L’idée de base était de pouvoir suivre les lieux traversés par Candide géographiquement tout en lisant le texte. En effet, la question de fond de ce projet était de savoir comment faciliter la reprise de la lecture à une personne lorsqu’elle lit un livre numérique. Les éléments de géolocalisation du personnage Candide permettent en partie de resituer le lecteur à la ligne où il s’était arrêté lors de la précédente lecture. Quelques éléments facilitant la découverte du texte ont également été ajoutés (pour des raisons pratiques, il a été décidé de limiter le texte de Candide aux cinq premiers chapitres. Le processus existant dans cette première partie du texte peut par la suite être généralisé à toute l’œuvre). Ce site est fait avant tout pour les ordinateurs, mais peut également être vu sur les tablettes si elles sont tenues en mode paysage. 
 
-Le lien suivant en montre le résultat : https://cdn.rawgit.com/Niwetsch/Candide/342270e3/Candide/index.html7
+Le lien suivant en montre le résultat : https://cdn.rawgit.com/Niwetsch/Candide/342270e3/Candide/index.html
 
 Cependant, il est possible que certaines fonctionnalités ne s'affichent pas correctement depuis Github. Ainsi, l'image suivante permet de visualiser et apprécier le travail en cas de problème
 
