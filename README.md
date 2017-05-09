@@ -4,7 +4,10 @@ Candide ou l’Optimiste est une œuvre de Voltaire écrite durant le XVIIIe si�
 
 Le lien suivant en montre le résultat : https://cdn.rawgit.com/Niwetsch/Candide/342270e3/Candide/index.html
 
-Cependant, il est possible que certaines fonctionnalités ne s'affichent pas correctement depuis Github. Ainsi, l'image suivante permet de visualiser et apprécier le travail en cas de problème
+Cependant, il est possible que certaines fonctionnalités ne s'affichent pas correctement depuis Github. Ainsi, l'image suivante permet de visualiser et apprécier le travail en cas de problème.
+
+![Candide]( "Candide")
+
 
 ### 2.	Fonctionnalités
 Dans le schéma de base, l’idée de départ était de diviser la page internet en deux avec une colonne réservée au texte et une autre pour l’essentiel à des interactions avec la carte. Ainsi, en décortiquant la présentation, à gauche se trouve le texte avec lequel deux interactions sont possibles. La première, par un click sur les numéros surélevés dans le texte, il est possible d’arriver directement sur la note en bas de page contenant les explications d’un mot ou d’une phrase. En cliquant sur la flèche tournée vers le haut située dans les notes en bas de page, la lecture reprend sur la ligne où se situait le mot avec le numéro. 
