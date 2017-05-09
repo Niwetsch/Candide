@@ -6,6 +6,7 @@ Le lien suivant en montre le résultat : https://cdn.rawgit.com/Niwetsch/Candide
 
 Cependant, il est possible que certaines fonctionnalités ne s'affichent pas correctement depuis Github. Ainsi, l'image suivante permet de visualiser et apprécier le travail en cas de problème.
 
+
 ![Candide](https://github.com/Niwetsch/Candide/blob/master/Candide/Image%20Candide.PNG "Candide")
 
 
